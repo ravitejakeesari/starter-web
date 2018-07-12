@@ -1,6 +1,6 @@
 # StarterWebProject
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work adding a line for rebasing example
 
 ##Introduction
 
